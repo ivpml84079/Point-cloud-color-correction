@@ -1,6 +1,6 @@
 # Point-cloud-color-correction
 
-"An Effective Hybrid Color Correction Algorithm for Color Point Clouds" (2023) by Kuo-Liang Chung and Ting-Chung Tang.
+"A Novel Grouping-Based Hybrid Color Correction Algorithm for Color Point Clouds" (2024) by Kuo-Liang Chung and Ting-Chung Tang.
 
 <div align=center>
 <img src="https://github.com/ivpml84079/Point-cloud-color-correction/blob/main/Fig/Example.png">
